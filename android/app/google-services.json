@@ -1,0 +1,47 @@
+{
+  "project_info": {
+    "project_number": "332140848415",
+    "project_id": "recipi-sign-in",
+    "storage_bucket": "recipi-sign-in.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:332140848415:android:3681c77f594d7b0db37c2a",
+        "android_client_info": {
+          "package_name": "com.example.recipi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "332140848415-irv4041bpgmv0t63oshgtb2122curbqr.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.recipi",
+            "certificate_hash": "012d1ec356ca1bae9a71ba86f82c9c7329e37421"
+          }
+        },
+        {
+          "client_id": "332140848415-bpg1dqnkqj2v8o7e52084g791jan5hng.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC1QaFesdhl425-CbFDK3Sn_3csagIKv-8"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "332140848415-bpg1dqnkqj2v8o7e52084g791jan5hng.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
